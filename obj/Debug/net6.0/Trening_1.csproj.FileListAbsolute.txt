@@ -1,0 +1,15 @@
+C:\Users\siasc\source\repos\Trening_1\Trening_1\bin\Debug\net6.0\Trening_1.exe
+C:\Users\siasc\source\repos\Trening_1\Trening_1\bin\Debug\net6.0\Trening_1.deps.json
+C:\Users\siasc\source\repos\Trening_1\Trening_1\bin\Debug\net6.0\Trening_1.runtimeconfig.json
+C:\Users\siasc\source\repos\Trening_1\Trening_1\bin\Debug\net6.0\Trening_1.dll
+C:\Users\siasc\source\repos\Trening_1\Trening_1\bin\Debug\net6.0\Trening_1.pdb
+C:\Users\siasc\source\repos\Trening_1\Trening_1\obj\Debug\net6.0\Trening_1.csproj.AssemblyReference.cache
+C:\Users\siasc\source\repos\Trening_1\Trening_1\obj\Debug\net6.0\Trening_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siasc\source\repos\Trening_1\Trening_1\obj\Debug\net6.0\Trening_1.AssemblyInfoInputs.cache
+C:\Users\siasc\source\repos\Trening_1\Trening_1\obj\Debug\net6.0\Trening_1.AssemblyInfo.cs
+C:\Users\siasc\source\repos\Trening_1\Trening_1\obj\Debug\net6.0\Trening_1.csproj.CoreCompileInputs.cache
+C:\Users\siasc\source\repos\Trening_1\Trening_1\obj\Debug\net6.0\Trening_1.dll
+C:\Users\siasc\source\repos\Trening_1\Trening_1\obj\Debug\net6.0\refint\Trening_1.dll
+C:\Users\siasc\source\repos\Trening_1\Trening_1\obj\Debug\net6.0\Trening_1.pdb
+C:\Users\siasc\source\repos\Trening_1\Trening_1\obj\Debug\net6.0\Trening_1.genruntimeconfig.cache
+C:\Users\siasc\source\repos\Trening_1\Trening_1\obj\Debug\net6.0\ref\Trening_1.dll
